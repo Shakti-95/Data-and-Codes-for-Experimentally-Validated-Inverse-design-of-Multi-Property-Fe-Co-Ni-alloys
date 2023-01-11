@@ -6,6 +6,6 @@ The strategy for imputation used in this work is as follows:
 3. Best ML model mapping from *Compostiion* to *log<sub>10</sub> T<sub>c</sub>* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> T<sub>c</sub>* column
 4. Best ML model mapping from *Compostiion* to *log<sub>10</sub> ρ* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> ρ* column
 5. Best ML model mapping from *Compostiion* to *log<sub>10</sub> δ* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> δ* column
-6. Best ML model mapping from *log<sub>10</sub> σ* to *log<sub>10</sub> H<sub>V</sub>* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> H<sub>V</sub>* with column respect to filled column
-7. Best ML model mapping from *Compostiion* to *M<sub>s</sub>* with lowest **MAE** is used to fill up the gaps in *M<sub>s</sub>* column
-8. Best ML model mapping from *Compostiion* to *M<sub>s</sub>* with lowest **MAE** is used to fill up the gaps in *M<sub>s</sub>* column
+6. Best ML model mapping from *log<sub>10</sub> σ* to *log<sub>10</sub> H<sub>V</sub>* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> H<sub>V</sub>* with column respect to filled column of *log<sub>10</sub> σ*
+7. Best ML model mapping from *log<sub>10</sub> σ<sub>y</sub>* to *log<sub>10</sub> H<sub>V</sub>* with lowest **MAE** is used to fill up the gaps in*log<sub>10</sub> H<sub>V</sub>* with column respect to filled column of *log<sub>10</sub> σ<sub>y</sub>*
+8. Best ML model mapping from *Compostiion* to *log<sub>10</sub> H<sub>V</sub>* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> H<sub>V</sub>* column
