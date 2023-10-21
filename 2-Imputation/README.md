@@ -14,4 +14,4 @@ For each step, the values of performance metrics for each model are compiled and
 
 ``9-Results.ipnyb``: This jupyter notebook is used for comparing all the performance metrics' values of 12 different models used for the 8 different steps and generating the heat map (shown below).
 
-![Figure-5](https://user-images.githubusercontent.com/12556692/211747565-6d34bb5e-05fe-45e9-9d9e-9e73c24b8116.jpg)
+![Figure-4-rev_300dpi](https://github.com/Shakti-95/Multi-propertyML_Multi-objectiveBO_FeCoNi_Alloy_design/assets/12556692/91dbf5f0-c4d7-4e41-844a-b6550e3dea64)
