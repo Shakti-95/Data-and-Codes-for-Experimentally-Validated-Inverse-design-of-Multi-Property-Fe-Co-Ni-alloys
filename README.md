@@ -33,5 +33,6 @@ If you used the database or the codes for your research, consider citing our Git
   year         = 2023,
   publisher    = {Zenodo},
   version      = {v1.0.0},
+  doi          = "10.5281/zenodo.10032387"
 }
 ```
