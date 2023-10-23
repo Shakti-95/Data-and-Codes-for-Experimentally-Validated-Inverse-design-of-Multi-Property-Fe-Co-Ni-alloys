@@ -1,3 +1,3 @@
-# Accelerated Multi-property Design of Fe-Co-Ni alloys using Bayesian optimization
+# Data and Codes for Experimentally Validated Inverse design of Multi-Property Fe-Co-Ni alloys
 
 
