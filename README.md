@@ -26,9 +26,8 @@ If you used the database or the codes for your research, consider citing our Git
                   Thway, Maung and
                   Hippalgaonkar, Kedar and
                   Ramanujan, Raju V.},
-  title        = {{Shakti-95/Data-and-Codes-for-Experimentally- 
-                   Validated-Inverse-design-of-Multi-Property-Fe-Co-
-                   Ni-alloys: Data and codes release}},
+  title        = {{Data and Codes for Experimentally Validated 
+                   Inverse design of Multi Property Fe-Co-Ni-alloys}},
   month        = oct,
   year         = 2023,
   publisher    = {Zenodo},
