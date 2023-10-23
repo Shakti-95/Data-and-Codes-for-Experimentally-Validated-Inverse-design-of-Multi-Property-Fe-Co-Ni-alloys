@@ -18,5 +18,20 @@ All of these codes are available in the ``3-Multi-property ML and multi-objectiv
 If you used the database or the codes for your research, consider citing our Github repository
 
 ```
-
+@dataset{padhy_2023_10032387,
+  author       = {Padhy, Shakti Prasad and
+                  Chaudhary, Varun and
+                  Lim, Yee-Fun and
+                  Zhu, Ruiming and
+                  Thway, Maung and
+                  Hippalgaonkar, Kedar and
+                  Ramanujan, Raju V.},
+  title        = {{Shakti-95/Data-and-Codes-for-Experimentally- 
+                   Validated-Inverse-design-of-Multi-Property-Fe-Co-
+                   Ni-alloys: Data and codes release}},
+  month        = oct,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+}
 ```
