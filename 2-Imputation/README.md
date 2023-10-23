@@ -10,6 +10,8 @@ The strategy for imputation used in this work is as follows:
 7. Best ML model mapping from *log<sub>10</sub> σ<sub>y</sub>* to *log<sub>10</sub> H<sub>V</sub>* with lowest **MAE** is used to fill up the gaps in*log<sub>10</sub> H<sub>V</sub>* with column respect to filled column of *log<sub>10</sub> σ<sub>y</sub>* (**Decision Tree**)
 8. Best ML model mapping from *Compostion* to *log<sub>10</sub> H<sub>V</sub>* with lowest **MAE** is used to fill up the gaps in *log<sub>10</sub> H<sub>V</sub>* column (**Support Vector**)
 
+The notebooks for all these steps are labeled with their respective step numbers.
+
 For each step, the values of performance metrics for each model are compiled and stored in excel files.
 
 ``9-Results.ipnyb``: This jupyter notebook is used for comparing all the performance metrics' values of 12 different models used for the 8 different steps and generating the heat map (shown below).
