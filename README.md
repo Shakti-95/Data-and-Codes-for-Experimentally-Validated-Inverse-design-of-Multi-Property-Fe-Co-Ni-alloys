@@ -26,7 +26,7 @@ If you used the database or the codes for your research, consider citing our Git
                   Thway, Maung and
                   Hippalgaonkar, Kedar and
                   Ramanujan, Raju V.},
-  title        = {{Shakti-95/Data-and-Codes-for-Experimentally- 
+  title        = {{Data-and-Codes-for-Experimentally- 
                    Validated-Inverse-design-of-Multi-Property-Fe-Co-
                    Ni-alloys: Data and codes release\_v1.0.1}},
   month        = Feb,
