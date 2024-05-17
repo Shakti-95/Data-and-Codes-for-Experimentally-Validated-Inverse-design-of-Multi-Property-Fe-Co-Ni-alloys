@@ -15,8 +15,23 @@ Lastly, the inverse design of Fe-Co-Ni alloy compositions was done using Bayesia
 All of these codes are available in the ``3-Multi-property ML and multi-objective BO`` folder.
 
 # Cite us
-If you used the database or the codes for your research, consider citing our Github repository
+If you used the database or the codes for your research, consider citing our paper and the GitHub repository
 
+## Paper citation
+```
+@article{padhy2024experimentally,
+  title={Experimentally validated inverse design of multi-property Fe-Co-Ni alloys},
+  author={Padhy, Shakti P and Chaudhary, Varun and Lim, Yee-Fun and Zhu, Ruiming and Thway, Muang and Hippalgaonkar, Kedar and Ramanujan, Raju V},
+  journal={iScience},
+  volume={27},
+  number={5},
+  pages={109723},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+## GitHub repository citation
 ```
 @dataset{padhy_2024_10686272,
   author       = {Padhy, Shakti Prasad and
