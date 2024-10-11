@@ -1,6 +1,6 @@
 # Data and Codes for Experimentally Validated Inverse design of Multi-Property Fe-Co-Ni alloys
 
-This repository contains the data and codes for the research work "_**Experimentally Validated Inverse design of Multi-Property Fe-Co-Ni alloys**_" authored by _Shakti P. Padhy, Varun Chaudhary, Yee-Fun Lim, Ruiming Zhu, Muang Thway, Kedar Hippalgaonkar, & Raju V. Ramanujan_ which is currently submitted to Advanced Materials for peer review.
+This repository contains the data and codes for the research work "_**Experimentally Validated Inverse design of Multi-Property Fe-Co-Ni alloys**_" authored by _Shakti P. Padhy, Varun Chaudhary, Yee-Fun Lim, Ruiming Zhu, Muang Thway, Kedar Hippalgaonkar, & Raju V. Ramanujan_ which is published in iScience.
 
 This work addresses the challenge of using incomplete and heterogeneous data in materials science in terms of property measurements and different processing conditions of samples, respectively. A unique method of machine learning-based imputation technique is developed for which the codes are available in the ``2-Imputation`` folder.
 
