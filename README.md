@@ -33,7 +33,7 @@ If you used the database or the codes for your research, consider citing our pap
 
 ## GitHub repository citation
 ```
-@dataset{padhy_2024_10686272,
+@software{padhy_2024_10686272,
   author       = {Padhy, Shakti Prasad and
                   Chaudhary, Varun and
                   Lim, Yee-Fun and
@@ -41,13 +41,15 @@ If you used the database or the codes for your research, consider citing our pap
                   Thway, Maung and
                   Hippalgaonkar, Kedar and
                   Ramanujan, Raju V.},
-  title        = {{Data-and-Codes-for-Experimentally- 
-                   Validated-Inverse-design-of-Multi-Property-Fe-Co-
-                   Ni-alloys: Data and codes release\_v1.0.1}},
-  month        = Feb,
+  title        = {Data-and-Codes-for-Experimentally-Validated-
+                   Inverse-design-of-Multi-Property-Fe-Co-Ni-alloys:
+                   Data and codes release\_v1.0.1
+                  },
+  month        = feb,
   year         = 2024,
   publisher    = {Zenodo},
   version      = {v1.0.1},
   doi          = {10.5281/zenodo.10686272},
-  url          = {https://doi.org/10.5281/zenodo.10686272}
+  url          = {https://doi.org/10.5281/zenodo.10686272},
+}
 ```
