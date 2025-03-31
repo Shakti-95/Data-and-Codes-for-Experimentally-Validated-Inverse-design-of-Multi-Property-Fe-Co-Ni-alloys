@@ -41,9 +41,9 @@ If you used the database or the codes for your research, consider citing our pap
                   Thway, Maung and
                   Hippalgaonkar, Kedar and
                   Ramanujan, Raju V.},
-  title        = {Data-and-Codes-for-Experimentally-Validated-
-                   Inverse-design-of-Multi-Property-Fe-Co-Ni-alloys:
-                   Data and codes release\_v1.0.1
+  title        = {Data and Codes for Experimentally
+                  Validated Inverse design of Multi Property
+                  Fe-Co-Ni alloys: Data and codes release v1.0.1
                   },
   month        = feb,
   year         = 2024,
