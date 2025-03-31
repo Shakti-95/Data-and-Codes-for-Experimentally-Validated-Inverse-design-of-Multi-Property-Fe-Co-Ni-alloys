@@ -33,7 +33,7 @@ If you used the database or the codes for your research, consider citing our pap
 
 ## GitHub repository citation
 ```
-@software{padhy_2024_10686272,
+@dataset{padhy_2024_10686272,
   author       = {Padhy, Shakti Prasad and
                   Chaudhary, Varun and
                   Lim, Yee-Fun and
